@@ -1,5 +1,6 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/bayu_utomo"><img src="https://api.daily.dev/devcards/cabd8cfefd444abc97dea39176808321.png?r=yad" width="400" alt="Bayu Prasetya Utomo's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/bayu_utomo"><img src="https://api.daily.dev/devcards/cabd8cfefd444abc97dea39176808321.png?r=yad" width="400" alt="Bayu Prasetya Utomo's Dev Card"/></a> -->
+<a href="https://app.daily.dev/BayuPrasetyaUtomo"><img src="./devcard.png" width="400" alt="Bayu Prasetya Utomo's Dev Card"/></a>
 <!--
 **BayuPrasetyaUtomo/BayuPrasetyaUtomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
